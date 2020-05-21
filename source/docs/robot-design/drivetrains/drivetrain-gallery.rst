@@ -20,10 +20,10 @@ in the Appendix.
     A universal chassis kit sold by AndyMark. It is available in several
     modifications: 6 wheel, mecanum, tank tread. It is pricey, but using
     provided 3d models as inspiration for your own drvietrain is free.
-`Basebot <http://basebot.co/>`_
-    A customizable open source drivetrain by FTC 10355 Project Peacock.
-    It was designed specifically to be used by other teams as a base
-    of their robots.
+`baseBot <http://basebot.co/>`_
+    A plate-based open source drivetrain by FTC 10355 Project Peacock. 
+    Plate designs can be customized in CAD by any team then manufactured 
+    using a laser cutter or CNC machine.
 `Wizards.exe 6 wheel drive chassis <https://drive.google.com/open?id=1iu2UUNlqoQ6bS1vnoRPtUI0Uv3lLjNec>`_
     Another design by FTC 9794 Wizards.exe. Combines custom side panels with
     Actobotics parts (gears, chain sprockets).
